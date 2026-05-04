@@ -1,4 +1,4 @@
-To run dashboard do the following 
+To run dashboard locally do the following 
 - Install shiny and python version 3.11.6
 - Install the following packages : 
 	pandas
